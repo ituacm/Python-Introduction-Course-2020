@@ -5,6 +5,7 @@
  - Curiosity about programming.
  - Being exciting to learn Python.
  - Having an account on HackerRank.
+ - Zoom account
 
 ## Goal
 
