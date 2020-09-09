@@ -13,7 +13,7 @@ The goal of that course is give some basic informations about Python Programming
 
 ## Lecture Day and Time
 
-Every Friday, [ 18:00 - 19:30 ] (Online)
+Every Monday, [ 18:00 - 19:30 ] (Online)
 
 ## Choose IDE
 
@@ -29,8 +29,8 @@ You should install and learn usage one of them before coming to the lecture.
 | 1.Hafta | Introduction, Input-Output Functions, Data Types, Variables | Zafer Yıldız 
 | 2.Hafta | Decision Statements(if-elif-else), Boolean, Logic Operators | Zafer Yıldız
 | 3.Hafta | Loops(for, while), break-continue, Contest | Zafer Yıldız
-| 4.Hafta | Data Structures (List, Tuple, Dictionary) | Zafer Yıldız
-| 5.Hafta | Functions, Final Contest| Zafer Yıldız
+| 4.Hafta | Data Structures (List, Tuple, Dictionary) | Serra Bozkurt
+| 5.Hafta | Functions, Final Contest| Serra Bozkurt
 
 
 > **ProTip:** Weeks might be extended and Q means Questions.
