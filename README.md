@@ -35,10 +35,10 @@ You should install and learn usage one of them before coming to the lecture.
 
 ## Instructors @I.T.U
 
-| Name and Surname | Social  |
+| Name and Surname | Social Media |
 |--|--|
 | Zafer Yıldız #3 | [*LinkedIn*](https://www.linkedin.com/in/zafryldz/) |
-| Serra Bozkurt #1 | [*LinkedIn*](https://www.linkedin.com/in/serra-bozkurt-6308401a3/) |
+| Serra Bozkurt #2 | [*LinkedIn*](https://www.linkedin.com/in/serra-bozkurt-6308401a3/) |
 
 ## Contest Link
 
