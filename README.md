@@ -13,7 +13,7 @@ The goal of that course is give some basic informations about Python Programming
 
 ## Lecture Day and Time
 
-Every Monday, [ 18:00 - 19:30 ] (Online)
+Every Monday, [ 17:00 - 18:30 ] (Online)
 
 ## Choose IDE
 
@@ -33,21 +33,12 @@ You should install and learn usage one of them before coming to the lecture.
 | 5.Hafta | Functions, Final Contest| Serra Bozkurt
 
 
-> **ProTip:** Weeks might be extended and Q means Questions.
-
 ## Instructors @I.T.U
 
 | Name and Surname | Social  |
 |--|--|
-| Zafer YILDIZ #3 | [*LinkedIn*](https://www.linkedin.com/in/zafryldz/) |
-
-## Assistants @I.T.U
-
-| Name and Surname | Social  |
-|--|--|
-| Serra BOZKURT #1 | [*LinkedIn*](https://www.linkedin.com/in/serra-bozkurt-6308401a3/) |
-
-> **ProTip:** Instructors and Assistants are also problem setter.
+| Zafer Yıldız #3 | [*LinkedIn*](https://www.linkedin.com/in/zafryldz/) |
+| Serra Bozkurt #1 | [*LinkedIn*](https://www.linkedin.com/in/serra-bozkurt-6308401a3/) |
 
 ## Contest Link
 
