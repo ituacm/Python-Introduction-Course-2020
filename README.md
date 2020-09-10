@@ -19,18 +19,18 @@ Every Monday, [ 17:00 - 18:30 ] (Online)
 
 You should install and learn usage one of them before coming to the lecture.
  - Python 3.8 (https://www.python.org/downloads/)
- - Online Tools(repl.it, codebunk.com )
+ - Online Tools(repl.it, codebunk.com)
  - PyCharm, VsCode
 
 ## Program
 
 |     #           |Content                          | Instructor                        
 |----------------|-------------------------------|-----------------------------|
-| 1.Hafta | Introduction, Input-Output Functions, Data Types, Variables | Zafer Yıldız 
-| 2.Hafta | Decision Statements(if-elif-else), Boolean, Logic Operators | Zafer Yıldız
-| 3.Hafta | Loops(for, while), break-continue, Contest | Zafer Yıldız
-| 4.Hafta | Data Structures (List, Tuple, Dictionary) | Serra Bozkurt
-| 5.Hafta | Functions, Final Contest| Serra Bozkurt
+| Week 1 | Introduction, Input-Output Functions, Data Types, Variables | Zafer Yıldız 
+| Week 2 | Decision Statements(if-elif-else), Boolean, Logic Operators | Zafer Yıldız
+| Week 3 | Loops(for, while), break-continue, Contest | Zafer Yıldız
+| Week 4 | Data Structures (List, Tuple, Dictionary) | Serra Bozkurt
+| Week 5 | Functions, Final Contest| Serra Bozkurt
 
 
 ## Instructors @I.T.U
