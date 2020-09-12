@@ -40,6 +40,14 @@ You should install and learn usage one of them before coming to the lecture.
 | Zafer Yıldız #3 | [*LinkedIn*](https://www.linkedin.com/in/zafryldz/) |
 | Serra Bozkurt #2 | [*LinkedIn*](https://www.linkedin.com/in/serra-bozkurt-6308401a3/) |
 
+## Assistants @I.T.U
+
+| Name and Surname | Social  |
+|--|--|
+| Hüseyin Averbek #2 | [*LinkedIn*](https://www.linkedin.com/in/h%C3%BCseyin-averbek-640a921b5/) |
+
+> **ProTip:** Instructors and Assistants are also problem setter.
+
 ## Contest Link
 
 It will be announced soon.
