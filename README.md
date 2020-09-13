@@ -27,7 +27,7 @@ You should install and learn usage one of them before coming to the lecture.
 |     #           |Content                          | Instructor                        
 |----------------|-------------------------------|-----------------------------|
 | Week 1 | Introduction, Input-Output Functions, Data Types, Variables | Zafer Yıldız 
-| Week 2 | Decision Statements(if-elif-else), Boolean, Logic Operators | Zafer Yıldız
+| Week 2 | Decision Statements(if-elif-else), Boolean, Mathematical & Logic Operators | Zafer Yıldız
 | Week 3 | Loops(for, while), break-continue, Contest | Zafer Yıldız
 | Week 4 | Data Structures (List, Tuple, Dictionary) | Serra Bozkurt
 | Week 5 | Functions, Final Contest| Serra Bozkurt
