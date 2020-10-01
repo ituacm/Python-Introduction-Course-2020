@@ -50,7 +50,7 @@ You should install and learn usage one of them before coming to the lecture.
 
 ## Contest Link
 
-It will be announced soon.
+https://www.hackerrank.com/contests/itu-acm-python-introduction-course/challenges
 
 
 <p align="center">
