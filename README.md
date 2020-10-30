@@ -50,6 +50,7 @@ You should install and learn usage one of them before coming to the lecture.
 
 ## Contest Links
 [Contest-1](https://www.hackerrank.com/contests/itu-acm-python-introduction-course/challenges)
+
 [Contest-2](http://www.algocompsite.ituacm.com/contest/deneme)
 
 
